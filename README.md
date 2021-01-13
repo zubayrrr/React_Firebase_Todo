@@ -1,6 +1,6 @@
 # React Firebase Todo App
 
-![todo app react firebase tutorial](https://user-images.githubusercontent.com/55942632/100148031-30ab5500-2ec2-11eb-9993-7f3f91673e59.png)
+Todo app made using React, backend with Firebase, styling with Material-ui
 
 ## Available Scripts
 
